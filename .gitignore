@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+.env
+.env.local
+__pycache__/
+*.pyc
+.DS_Store
+temp_image.jpg
+*.log
